@@ -1,7 +1,7 @@
 <distributionManagement>
-   <repository>
+   <rep>
      <id>github</id>
-     <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+     <name>GitHub dccreep Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/dccreep/rep</url>
    </repository>
 </distributionManagement>
